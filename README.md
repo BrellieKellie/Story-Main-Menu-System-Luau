@@ -5,16 +5,16 @@ This main menu system uses a simple luau module script hierarchy. Multiple stori
 # Placement in the game explorer goes as follows:
 
 ReplicatedStorage
-> MainMenu
-    > Queues
-    > Gui
-    > Data 
-    > [ModuleConfigs.rbxm]
+- MainMenu
+    - Queues
+    - Gui
+    - Data 
+    - [ModuleConfigs.rbxm]
 
 ServerScriptService
-> MainMenuServer
+- MainMenuServer
 
 StarterGui
-> [MainMenuScreenGui.rbxm]
-    > MainMenuClient (May already be included in the model)
+- [MainMenuScreenGui.rbxm]
+    - MainMenuClient (May already be included in the model)
 
