@@ -23,11 +23,11 @@ local MenuDataModule = {}
 MenuDataModule.StoryData = {
 	["Area 51"] = {
 		Chapters = {
-			{Name = "Area 51", PlaceId = 81648437044012, Image = "rbxassetid://16988618776", Description = "A mysterious raid has happened at Area 51. Our commander is sending us on a mission to find out what actually happened…"},
+			{Name = "Area 51", PlaceId = 81648437044012, Image = "rbxassetid://16988618776", Description = "A mysterious raid has happened at Area 51. Our commander is sending us on a mission to find out what actually happenedâ€¦"},
 		}
 	},
 	
-	-- Another Story
+	-- Another Story can be added here
 }
 
 
